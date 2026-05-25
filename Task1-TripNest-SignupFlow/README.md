@@ -15,7 +15,7 @@ TripNest is a modern travel mobile application signup flow designed using Figma.
 - UI/UX Design
 
 ## Prototype Link
-Paste your Figma link here.
+https://www.figma.com/design/neNOks7gQxZjC1k6TJNJQ4/TripNest-UIUX-Task?node-id=0-1&t=GiV37Nlfn9215DjK-1
 
 ## Author
-Your Name
+Tholkappiyan M

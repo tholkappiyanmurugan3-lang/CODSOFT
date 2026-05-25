@@ -3,16 +3,17 @@
 SkyMail is a modern travel email template UI designed using Figma.
 
 ## Features
-- Modern Header Navigation
 - Hero Banner
-- Popular Destinations Section
+- Destination Cards
 - Offer Banner
-- Responsive Layout
-- Professional Footer
+- Footer
 
 ## Tools Used
 - Figma
-- UI/UX Design Principles
+- UI/UX Design
+
+## Preview
+(Add image here)
 
 ## Author
 Tholkappiyan M

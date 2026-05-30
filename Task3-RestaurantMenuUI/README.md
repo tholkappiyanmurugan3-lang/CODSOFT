@@ -16,7 +16,8 @@ SpiceHaven is a modern restaurant landing page and menu UI designed using Figma.
 - Visual Design
 
 ## Project Preview
-(Add exported PNG screenshot here)
+<img width="1440" height="2156" alt="TripNest UIUX Task (2)" src="https://github.com/user-attachments/assets/f06ab1e4-702b-40ef-a67c-be319d7789b5" />
+
 
 ## Author
 Tholkappiyan M
